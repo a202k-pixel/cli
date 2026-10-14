@@ -119,4 +119,4 @@ what an official GitHub CLI tool can look like with a fundamentally different de
 tools bring GitHub to the terminal, `hub` behaves as a proxy to `git`, and `gh` is a standalone
 tool. Check out our [more detailed explanation](docs/gh-vs-hub.md) to learn more.
 
-[releases page]: https://github.com/cli/cli/releases/latest
+[releases page]: https://github.com/cli/cli/releases
